@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ctrip-itinerary-dag-optimizer-skill",
+  "version": "1.0.0",
+  "description": "GenPark Ctrip Itinerary DAG Optimizer - Plans multi-day travel schedules using TSP graph heuristics with fatigue decay and opening hour constraints.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "ctrip",
+    "trip-genie",
+    "itinerary-optimization",
+    "travel-ai",
+    "mcp"
+  ]
+}
